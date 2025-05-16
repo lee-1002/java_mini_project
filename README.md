@@ -15,6 +15,7 @@
 
 # Exception
 ![Exception1](https://github.com/user-attachments/assets/5084fe01-1e14-4606-a14f-a9b12f2df29f)
+-
 ![Exception2](https://github.com/user-attachments/assets/5d1c4169-e434-4b7d-b2b4-00551eebdc57)
 
 ----
