@@ -13,6 +13,11 @@
 
 ----
 
+# Class Diagram
+![다이어그램](https://github.com/user-attachments/assets/163a6869-9369-42a0-8e7e-877d677bb654)
+
+----
+
 # Exception
 ![Exception1](https://github.com/user-attachments/assets/5084fe01-1e14-4606-a14f-a9b12f2df29f)
 -
@@ -30,12 +35,10 @@
 
 ----
 
-# Class Diagram
-![다이어그램](https://github.com/user-attachments/assets/163a6869-9369-42a0-8e7e-877d677bb654)
-
-----
-
-# 직업 선택, HP MP 표시
+# 직업 선택, HP MP
+![HPMP](https://github.com/user-attachments/assets/76e0f6fc-198c-4adf-9328-68dfc402a578)
+-
+![옵션](https://github.com/user-attachments/assets/eb15980f-3574-4e7b-9f70-376c6acf428d)
 
 ----
 
@@ -43,5 +46,7 @@
 - 클릭 및 키보드로 스킬 구현
 - 다음 스테이지 이어지며 몬스터 체력 및 공격력 높아짐
 - 이미지 움직임
+  
+![구현 영상2](https://github.com/user-attachments/assets/65353b9a-6563-4771-9e9d-bbe1559e55ab)
 
 ----
