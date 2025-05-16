@@ -36,16 +36,16 @@
 ----
 
 # 직업 선택, HP MP
-![HPMP](https://github.com/user-attachments/assets/76e0f6fc-198c-4adf-9328-68dfc402a578)
+![실행](https://github.com/user-attachments/assets/4876cb80-c2bd-4cd2-9b29-3b662fe47c71)
 -
-![옵션](https://github.com/user-attachments/assets/eb15980f-3574-4e7b-9f70-376c6acf428d)
+![옵션](https://github.com/user-attachments/assets/0805dde5-bb11-4644-a1d0-5d19d56a5e14)
 
 ----
 
 # 구현 영상
 - 클릭 및 키보드로 스킬 구현
 - 다음 스테이지 이어지며 몬스터 체력 및 공격력 높아짐
-- 이미지 움직임
+- 공격시 이미지 움직임 및 타격시 효과
   
 ![구현 영상2](https://github.com/user-attachments/assets/65353b9a-6563-4771-9e9d-bbe1559e55ab)
 
