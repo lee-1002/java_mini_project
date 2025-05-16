@@ -1,5 +1,5 @@
 # 👀개요
-- java swing, JFrame, Jpanel로 몬스터 잡기
+- java swing, JFrame, Jpanel 몬스터 잡기 구현
   
 ----
 
