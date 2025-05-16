@@ -1,6 +1,6 @@
 # 개요
 - java swing, JFrame, Jpanel로 몬스터 잡기
-
+  
 ----
 
 # 기능 구현 내용
@@ -10,6 +10,22 @@
 4. 턴마다 공격하고 쓰러뜨리면 다음 스테이지
 5. HP, MP 바 구현 및
 6. 스테이지 올라갈수록 몬스터 체력 및 공격력 높아짐
+
+----
+
+# Exception
+![Exception1](https://github.com/user-attachments/assets/5084fe01-1e14-4606-a14f-a9b12f2df29f)
+![Exception2](https://github.com/user-attachments/assets/5d1c4169-e434-4b7d-b2b4-00551eebdc57)
+
+----
+
+# Interface
+![Interface](https://github.com/user-attachments/assets/978ca972-f0fd-4c79-9a50-82f28a15b7ef)
+
+----
+
+# Implements
+![Implements](https://github.com/user-attachments/assets/cde423cd-8fe0-456c-b24a-82cb74d3ba48)
 
 ----
 
@@ -26,3 +42,5 @@
 - 클릭 및 키보드로 스킬 구현
 - 다음 스테이지 이어지며 몬스터 체력 및 공격력 높아짐
 - 이미지 움직임
+
+----
